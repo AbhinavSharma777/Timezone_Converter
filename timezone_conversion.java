@@ -66,6 +66,6 @@ public class timezone_conversion
             System.out.println(("IF YES TYPE 1 ELSE TYPE 0"));
             ch= t.nextInt();
 
-    }System.out.println("****Thank You!****");
+    }
     }
 }
