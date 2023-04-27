@@ -1,1 +1,1 @@
-# Timezone_Converter
+This is a simple time zone converter that converts the timezone of more than 100+ countries into your local time zone and vice versa. A project made throughly on Core Java and it also uses some spcific imports as well 
